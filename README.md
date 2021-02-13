@@ -1,4 +1,4 @@
 # down_wifi
-jangan buat jahil
+untuk menjalankan ($ls,$chmod +x *,$python2 down_wifi.py)jangan buat jahil
 # install
 Ahsiap
